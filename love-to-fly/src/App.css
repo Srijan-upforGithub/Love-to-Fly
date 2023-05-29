@@ -1,0 +1,26 @@
+.nav-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(239,239,239);
+}
+.nav-link{
+  font-size: 18px;
+  text-decoration: none;
+  margin: 0px 30px;
+  color: black;
+}
+.logo{
+  max-width: 55px;
+}
+.logo img{
+  height:100%;
+  width: 100%;
+  object-fit: cover;
+}
+.nav-btn button{
+  height: 39px;
+    padding: 0px 14px;
+    border-radius: 5px;
+    margin: 0px 18px;
+}
