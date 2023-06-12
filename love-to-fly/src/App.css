@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin&family=Fjalla+One&family=Poppins:wght@300&family=Roboto+Slab:wght@500&family=Roboto:wght@300;500&display=swap');
+.navbar{
+   margin:  0px 40px;
+}
 .nav-link{
   font-size: 18px;
   text-decoration: none;
@@ -7,5 +10,12 @@
 }
 .logo{
   max-width: 55px;
+}
+
+.description{
+  font-size: 19px;
+}
+.lets-start{
+  max-width: 38%;
 }
 

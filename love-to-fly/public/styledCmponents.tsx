@@ -12,7 +12,7 @@ max-width: 1400px;
 `
 export const Wrapper = styled.div`
 display: flex;
-justify-content: space-around;
+justify-content: center;
 align-items: center;
 background-color: rgb(239,239,239);
 `
@@ -32,4 +32,5 @@ object-fit: cover;
 `
 export const BigHeading = styled.h1`
     color: rgb(11,150,251);
+    font-size: 70px;
 `
